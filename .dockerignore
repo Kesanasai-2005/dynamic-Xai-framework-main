@@ -1,0 +1,9 @@
+.venv/
+**/__pycache__/
+*.pyc
+.git/
+.gitignore
+Dockerfile
+.dockerignore
+data/raw/_upload*.csv
+data/processed/
